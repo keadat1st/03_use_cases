@@ -16,13 +16,13 @@
 
    * A description, or a numbered list, of what would happen. A step by step instruction 
 
-### Examples of Use cases
+## Examples of Use cases
 
 ![](Screen%20Shot%202018-02-04%20at%2022.42.00.png)
 
 ![](Screen%20Shot%202018-02-04%20at%2022.42.30.png)
 
 
-### The Size of a Use Case
+## The Size of a Use Case
 * The Boss-test.
 * Short and concise (5-10 steps)
