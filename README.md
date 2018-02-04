@@ -20,7 +20,7 @@
 
 ![](Screen%20Shot%202018-02-04%20at%2022.42.00.png)
 
-![](Create user.png)
+![](create_user.png)
 
 
 ## The Size of a Use Case
